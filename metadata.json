@@ -1,0 +1,5 @@
+{
+  "name": "Clean IP Finder",
+  "description": "A professional tool to discover and test clean CDN IP addresses (Cloudflare, Fastly, etc.) with latency monitoring.",
+  "requestFramePermissions": []
+}
